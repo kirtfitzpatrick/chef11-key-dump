@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'chef11_key_dump'
+
+Chef11KeyDump.dump
